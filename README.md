@@ -17,11 +17,11 @@ An Electronics & Cybersecurity enthusiast who creates crazy things.
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQyYnVydTY1YTJ2cXp5NGQ4YXBhY2l3N3I3ZG5ramN3dGswMmpwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eFxpuiAuG4nrPNCPEM/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQyYnVydTY1YTJ2cXp5NGQ4YXBhY2l3N3I3ZG5ramN3dGswMmpwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eFxpuiAuG4nrPNCPEM/giphy.gif"  />
+</div>
 
 ###
-
-## 
 
 
 ##🏆 Ye Kaise mila mujhe khud nahi pata
