@@ -12,9 +12,6 @@ An Electronics & Cybersecurity enthusiast who creates crazy things.
 ![](https://nirzak-streak-stats.vercel.app/?user=err0rgod&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=err0rgod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🐍 Bhago Bencho Saanp aa gaya
-<img src="https://raw.githubusercontent.com/err0rgod/err0rgod/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
