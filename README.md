@@ -27,6 +27,9 @@ An Electronics & Cybersecurity enthusiast who creates crazy things.
 ### ✍️ Copy Kiya hai
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Snake Commits
+![](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+
 ### 🔝 Koi to Contribute kro
 ![](https://github-contributor-stats.vercel.app/api?username=err0rgod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
