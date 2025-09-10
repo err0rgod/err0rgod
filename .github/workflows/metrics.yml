@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # identity
-          user: ryu-ryuk
+          user: err0rgod
           template: classic
           config_timezone: Asia/Kolkata
           config_octicon: yes
