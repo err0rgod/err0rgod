@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+name: Snake commits
 
 on:
   schedule:
@@ -17,10 +17,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation (Catppuccin Mocha)
+      - name: Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.err0rgod }}
           outputs: |
             dist/github-snake.svg?color_snake=#cba6f7&color_dots=#313244,#a6adc8,#f38ba8,#fab387,#f9e2af
             dist/github-snake-dark.svg?color_snake=#cba6f7&color_dots=#313244,#a6adc8,#f38ba8,#fab387,#f9e2af
@@ -34,4 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update Catppuccin Mocha Snake [skip ci]"
+          commit_message: "Success"
