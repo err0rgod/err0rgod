@@ -1,1 +1,1 @@
-![Profile Views](https://count.getloli.com/get/@err0rgod?theme=e621)
+![Profile Views](https://count.getloli.com/get/@err0rgod?theme=gelbooru)
