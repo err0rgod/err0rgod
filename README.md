@@ -1,9 +1,10 @@
 ![Profile Views](https://count.getloli.com/get/@err0rgod?theme=gelbooru)
 
 <div align="center">
-  <h1>Hi there, I'm Nirbhay Katiyar (err0rgod) 👋</h1>
+  <h1>Hi there, I'm Nirbhay Katiyar </h1>
   <h3>Software Developer | Security Researcher | Cloud-Native Backend Engineer</h3>
   <p>Building secure, scalable applications and autonomous AI systems.</p>
+  <p>Currently learning OCR & VAD technologies building them from scratch.</p>
 
   <p>
     <a href="https://linkedin.com/in/nirbhay-katiyar" target="_blank">
@@ -20,7 +21,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [FlexURL](https://github.com/err0rgod)
 > **Production URL Management Platform**
