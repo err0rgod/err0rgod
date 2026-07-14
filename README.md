@@ -23,25 +23,47 @@
 
 ## Featured Projects
 
-### [FlexURL](https://github.com/err0rgod)
+### [FlexURL](https://flexurl.app)
 > **Production URL Management Platform**
 > - Architected using Twitter Snowflake IDs with Base62 encoding for ~18.4 quintillion unique IDs/epoch.
 > - Built a PostgreSQL–Redis hybrid architecture maintaining ~ 45ms Median & 250ms P95 redirect latency.
 > - Fully hardened with SSRF/CSRF mitigation, AWS Lightsail, and Google Safe Browsing integration.
+> - Integrated Analytics engine, OS Aware redirects, schedules, Time limited, password protected URLS.
 
-### [ZeroDaily](https://github.com/err0rgod)
+### [ZeroDaily](https://zerodaily.in)
 > **Autonomous AI Security News Platform**
-> - Built a serverless AI pipeline on AWS (Lambda, EventBridge, DynamoDB).
+> - Built a serverless AI pipeline on AWS (Lambda, EventBridge, DynamoDB, S3).
 > - Automates scraping, deduplication, LLM-powered summarization, and newsletter fan-out.
 > - Ultra-efficient: 1.2s cold starts, completes daily workflow in ~8 mins with near-zero cost.
+> - RSS feed for direct content fetching, 50+ subscribers without any daily changes.
 
 ### [TOKELY](https://pypi.org/project/tokely/)
 > **A Hybrid Stateless Auth Library**
 > - Open-source PyPI package supporting database adapters and JWT implementations.
 > - Integrated robust hashing (Argon2) and HTTP-only cookie security standards.
+> - Database Agnostic implementation, compatible with any database you want.
+> - Security first priority, Using secure coding practices.
 
+### [Divine](https://github.com/err0rgod/divine)
+> **The Only Router you will ever need**
+> - Can attach api's from any provider and gives one endpoint.
+> - Point that endpoint to any IDE/CLI coding tools using the inbuilt proxy.
+> - Use Model's like Opus 4.8,4.7,4.6 GPT 5.5 & GLM 5.2 for free.
+> - Inbuilt Chat with all features from code editing, loop, reasoning all using free api's
+
+### [MidAnalyzer](https://midanalyzer.streamlit.app)
+> **Analyze PCAP Files on the Go**
+> - Localy/Web analyze pcap files in the most interactive way.
+> - See Geographical, Protocol, DNS based info directly.
+> - Built on docker, two step deploy on Locally.
+
+### [Revlimiter](https://pypi.org/project/revlimiter/)
+> **Rate limiter library for python**
+> - Token bucket & Leaky Bucket supported.
+> - Just pull one instance and you are good to go.
+> - Direct parameters pass (Refresh_time, no. of tokens, no. of inserts)
 ---
 
 <p align="center">
-  <i>Let's connect and build something awesome! Feel free to reach out via <a href="mailto:nirbhay@flexurl.app">email</a> or <a href="https://linkedin.com/in/nirbhay-katiyar">LinkedIn</a>.</i>
+  <i>Let's connect and build something awesome! Feel free to reach out via <a href="mailto:nirbhay@flexurl.app">email</a> or <a href="https://linkedin.com/in/nirbhay-katiyar">LinkedIn or I go by "err0rgod" on all platforms.</a>.</i>
 </p>
