@@ -39,6 +39,7 @@
 > - Integrated Analytics engine, OS Aware redirects, schedules, Time limited, password protected URLS.
 
 ### [ZeroDaily](https://zerodaily.in)
+[![Tokens used](https://zerodaily.in/badge/tokens.svg)](https://zerodaily.in)  [![Subscribers](https://zerodaily.in/badge/subscribers.svg)](https://zerodaily.in)  [![Posts written](https://zerodaily.in/badge/posts.svg)](https://zerodaily.in)
 > **Autonomous AI Security News Platform**
 > - Built a serverless AI pipeline on AWS (Lambda, EventBridge, DynamoDB, S3).
 > - Automates scraping, deduplication, LLM-powered summarization, and newsletter fan-out.
