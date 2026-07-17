@@ -22,6 +22,13 @@
 ---
 
 ## Featured Projects
+### [TOKELY](https://pypi.org/project/tokely/)   
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/tokenly-auth?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/tokenly-auth)
+> **A Hybrid Stateless Auth Library**
+> - Open-source PyPI package supporting database adapters and JWT implementations.
+> - Integrated robust hashing (Argon2) and HTTP-only cookie security standards.
+> - Database Agnostic implementation, compatible with any database you want.
+> - Security first priority, Using secure coding practices.
 
 ### [FlexURL](https://flexurl.app)
 > **Production URL Management Platform**
@@ -37,12 +44,6 @@
 > - Ultra-efficient: 1.2s cold starts, completes daily workflow in ~8 mins with near-zero cost.
 > - RSS feed for direct content fetching, 50+ subscribers without any daily changes.
 
-### [TOKELY](https://pypi.org/project/tokely/)
-> **A Hybrid Stateless Auth Library**
-> - Open-source PyPI package supporting database adapters and JWT implementations.
-> - Integrated robust hashing (Argon2) and HTTP-only cookie security standards.
-> - Database Agnostic implementation, compatible with any database you want.
-> - Security first priority, Using secure coding practices.
 
 ### [Divine](https://github.com/err0rgod/divine)
 > **The Only Router you will ever need**
