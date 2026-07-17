@@ -31,6 +31,7 @@
 > - Security first priority, Using secure coding practices.
 
 ### [FlexURL](https://flexurl.app)
+[![FlexURL Visitors](https://your-badge-domain.com/badge/visitors.svg?left_text=visitors&left_color=BLACK&right_color=GREEN)](https://flexurl.app)  [![FlexURL Links Created](https://your-badge-domain.com/badge/links-created.svg?left_text=links%20created&left_color=BLACK&right_color=GREEN)](https://flexurl.app)
 > **Production URL Management Platform**
 > - Architected using Twitter Snowflake IDs with Base62 encoding for ~18.4 quintillion unique IDs/epoch.
 > - Built a PostgreSQL–Redis hybrid architecture maintaining ~ 45ms Median & 250ms P95 redirect latency.
