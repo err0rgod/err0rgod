@@ -61,6 +61,7 @@
 > - Built on docker, two step deploy on Locally.
 
 ### [Revlimiter](https://pypi.org/project/revlimiter/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/revlimiter?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/revlimiter)
 > **Rate limiter library for python**
 > - Token bucket & Leaky Bucket supported.
 > - Just pull one instance and you are good to go.
