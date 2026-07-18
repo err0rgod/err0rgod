@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Nirbhay Katiyar </h1>
   <h3>Software Developer | Security Researcher | Cloud-Native Backend Engineer</h3>
   <p>Building secure, scalable applications and autonomous AI systems.</p>
-  <p>Currently learning OCR & VAD technologies building them from scratch.</p>
+  <p>Currently learning OCR & VAD technologies & building them from scratch.</p>
 
   <p>
     <a href="https://linkedin.com/in/nirbhay-katiyar" target="_blank">
